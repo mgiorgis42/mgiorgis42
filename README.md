@@ -2,7 +2,7 @@
 - A little bit about me:
   1. 💻 I am an undergraduate student studying Data Science at George Mason University in Fairfax, VA.
   2. 🌱 I am addicted to learning and growing everyday.
-  3. I am fairly novice to the field of Data Science and am still fascinated with the applications and success of 'hard' sciences over social sciences 😅
+  3. 😅 I am fairly novice to the field of Data Science and am still fascinated with the applications and success of 'hard' sciences over social sciences.
   
 - You can find me at: s
   - 🏢 LinkedIn: https://www.linkedin.com/in/moses-giorgis-658620143/
