@@ -8,4 +8,4 @@
   - 🏢 LinkedIn: https://www.linkedin.com/in/moses-giorgis-658620143/
   - 📩 Email: mgiorgis42@gmail.com
 
-Have a blessed rest of the week!
+Have a blessed rest of your week!
